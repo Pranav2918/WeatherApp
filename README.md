@@ -1,11 +1,12 @@
 # whatsweather
 
-Search your city and get weather.
+- Search for your city and check out weather.
 
-- API Call
+- Called weather API 
+- Changed Icon placeholder according to weather
 
 ### Screenshot
 
 <img src="ss.png" height="500rem">
 
-## FlutterDev
+#### Keep Fluttering :blue_heart:
